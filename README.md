@@ -95,25 +95,6 @@ establish the causes of booking or cancellation patterns.
 5.  Select chart elements where supported to explore cross-filtered
     results.
 
-## Repository Contents
-
-Add your project files to the repository, for example:
-
-``` text
-Riding-Analysis/
-├── README.md
-├── Riding_Analysis.pbix
-├── screenshots/
-│   ├── homepage.png
-│   ├── vehicle-type.png
-│   ├── revenue.png
-│   ├── cancellation.png
-│   ├── review.png
-│   └── summary.png
-└── data/
-    └── [add dataset file if it can be shared]
-```
-
 The filenames above are suggested organization only. Include the PBIX,
 dataset, and screenshots only if you have permission to share them.
 
